@@ -1,0 +1,8 @@
+D:\work\MyCode\MyCode_Qu\TestProject\bin\Debug\TestProject.exe.config
+D:\work\MyCode\MyCode_Qu\TestProject\bin\Debug\TestProject.exe
+D:\work\MyCode\MyCode_Qu\TestProject\bin\Debug\TestProject.pdb
+D:\work\MyCode\MyCode_Qu\TestProject\bin\Debug\MyCode.dll
+D:\work\MyCode\MyCode_Qu\TestProject\bin\Debug\MyCode.pdb
+D:\work\MyCode\MyCode_Qu\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+D:\work\MyCode\MyCode_Qu\TestProject\obj\Debug\TestProject.exe
+D:\work\MyCode\MyCode_Qu\TestProject\obj\Debug\TestProject.pdb

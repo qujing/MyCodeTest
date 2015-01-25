@@ -1,0 +1,7 @@
+D:\work\MyCode\MyCode_Qu\MyCode\bin\Debug\MyCode.dll
+D:\work\MyCode\MyCode_Qu\MyCode\bin\Debug\MyCode.pdb
+D:\work\MyCode\MyCode_Qu\MyCode\obj\Debug\MyCode.dll
+D:\work\MyCode\MyCode_Qu\MyCode\obj\Debug\MyCode.pdb
+D:\work\MyCode\MyCode_Qu\MyCode\obj\Debug\MyCode.Exception.Resources.ExceptionMessages.resources
+D:\work\MyCode\MyCode_Qu\MyCode\obj\Debug\MyCode.csproj.GenerateResource.Cache
+D:\work\MyCode\MyCode_Qu\MyCode\obj\Debug\MyCode.csprojResolveAssemblyReference.cache
